@@ -1,0 +1,21 @@
+
+#all{
+    margin: 20 auto ;
+    width: 400px;
+    height: 400px;
+    background-image: url(./bird.avif),url(./sun.avif),url(./thankful-businessman-with-open-arms-field_254268-363.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    border:100px solid rgb(226, 222, 222);
+    border-radius: 200px 50px ;
+    background-position: center;
+}
+#btn{
+    margin-left: 50%;
+}
+button{
+background-color: aquamarine;
+    margin-left: 5px;
+    font-size: 30px;
+    width: auto;
+}
